@@ -1,1 +1,1 @@
-Sample landing page for JXK
+This is our landing page for JXK Solutions.
